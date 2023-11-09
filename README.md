@@ -4,7 +4,7 @@
 
 <div>
     <a href='https://zepengzhang.com/' target='_blank'>Zepeng Zhang</a><sup>1</sup>&emsp;
-    <a href='https://faculty.sist.shanghaitech.edu.cn/zhao/' target='_blank'>Ziping Zhao</a><sup>2</sup>&emsp
+    <a href='https://faculty.sist.shanghaitech.edu.cn/zhao/' target='_blank'>Ziping Zhao</a><sup>2</sup>
 </div>
 <div>
     <sup>1</sup>EPFL, <sup>2</sup>ShanghaiTech
